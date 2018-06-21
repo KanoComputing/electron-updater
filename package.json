@@ -1,0 +1,14 @@
+{
+  "name": "@kano/electron-updater",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha test/win32.test.js"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "mock-spawn": "^0.2.6",
+    "should": "^13.2.1"
+  }
+}
